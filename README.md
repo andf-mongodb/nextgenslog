@@ -1,6 +1,8 @@
 # nextgenslog
 Because who wants to do a computer's work by hand?
 
+(is it "NextGensLog?" or is it NextGenSlog?")
+
 ## Steps
 
 1. `git clone` this repo to a spot on your workstation
