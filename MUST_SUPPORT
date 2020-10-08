@@ -1,0 +1,11 @@
+Target not found: "binary:bin.Mongo()"
+Ambiguous target: "readconcern:readconcern."available""
+Target not found: "writeconcern:writeconcern.<number>"
+Target not found: "writeconcern:writeconcern.<tag set>"
+Target not found: "writeconcern:writeconcern."majority""
+Target not found: "update:up.$[<identifier>]"
+Target not found: "phpclass:
+Target not found: "phpmethod:
+Target not found: "meth:pymongo
+Target not found: "meth:motor
+has been deprecated
