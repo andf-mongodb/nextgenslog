@@ -6,8 +6,7 @@ Because who wants to do a computer's work by hand?
 ## Steps
 
 1. `git clone` this repo to a spot on your workstation
-2. `cd` to that location in your fav terminal
-
+2. Set execute perms for the two scripts: `chmod 755 purge.sh && chmod 755 sort.sh`
 3. Push to autobuilder
 4. Get ridiculous log message output.
 5. Copy and paste the WARNING and ERROR lines into a text file in the same directory as this cloned repo. Let's say you call the text file `AHHHHH`
