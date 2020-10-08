@@ -15,6 +15,6 @@ Because who wants to do a computer's work by hand?
 7. Then, run `sort.sh` like so: `./sort.sh AHHHHH` -- this will create two new files -- a list of ERRORS and a list of WARNINGS -- and clean up / sort the output to make it easier to work with. Also adds a handy little count of WARNINGS | ERRORS to the end of each filename as a sort of running progress report throughout your day.
 8. Oh, and I guess do all the actual fixing work too, right. I started some hacky automation to try and automate this part also, but these broken links really are one-offs. A few ten-offs, but nothing really that benefits from automation. Bah.
 
-More details about what each script does and why can be found inline in `purge.sh` and `sort.sh` as comments. But just the intro, no code explanations. I wrote this stuff in like 30 minutes: helpful, descriptive comments are the first thing to get skipped!
+Some additional info inline as comments in `purge.sh` and `sort.sh`. But nothing fancy, did not spend much time on this.
 
 Heh, hope this helps!
