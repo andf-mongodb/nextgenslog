@@ -1,7 +1,7 @@
 # nextgenslog
 Because who wants to do a computer's work by hand?
 
-(is it "NextGensLog?" or is it NextGenSlog?")
+(is it "NextGensLog" or is it "NextGenSlog" ??)
 
 ## Steps
 
